@@ -8,5 +8,3 @@ end
 
  return array.join()
 end
-
-p oxford_comma(array)
